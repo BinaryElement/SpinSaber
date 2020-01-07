@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "./Schema.json",
+  "author": "SkyKiwi",
+  "description": "Spins the player to emulate orbital cameras for Mixed Reality",
+  "gameVersion": "1.0.1",
+  "id": "spinsaber",
+  "name": "SpinSaber",
+  "version": "2.0.1",
+  "dependsOn": {
+    "BSIPA": "^3.12.20"
+  },
+  "features": []
+}
